@@ -2,7 +2,12 @@
 
 **`Desenvolvedor Front-End`**
 
-Tenho 25 anos, sou natural de São Paulo e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e desafios na área de desenvolvimento. Aqui no GitHub compartilho meus projetos, estudos e experimentos enquanto evoluo na minha jornada como desenvolvedor.
+Tenho 26 anos, sou de São Paulo e atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Estou sempre em busca de novos aprendizados e desafios na área de desenvolvimento.
+
+Aqui no GitHub, compartilho meus projetos, estudos e experimentos, como parte da minha evolução contínua como desenvolvedor.
+Meu foco é criar soluções funcionais, bem estruturadas e alinhadas com boas práticas.
+
+Fique à vontade para explorar os repositórios e acompanhar meu progresso. 🚀
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -51,7 +56,7 @@ Tenho 25 anos, sou natural de São Paulo e atualmente estou cursando Análise e 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; background-color: white; border-radius: 4px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
@@ -64,6 +69,14 @@ Tenho 25 anos, sou natural de São Paulo e atualmente estou cursando Análise e 
 />
 <img 
     align="left" 
+    alt="Sass"
+    title="Sass" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -72,11 +85,30 @@ Tenho 25 anos, sou natural de São Paulo e atualmente estou cursando Análise e 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+
+<br/><br/>
+
 
 
